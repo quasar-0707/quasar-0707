@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=안녕하세요!%20저는%20세린이에요.&fontSize=40&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=안녕하세요!%20세린입니다.&fontSize=40&textBg=false"/>
 </h3>
 
 <p align="center">저는 스마트폰을 위주로 다양한 테크 분야에 관심을 가지고 있습니다.</p>
