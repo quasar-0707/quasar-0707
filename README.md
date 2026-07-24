@@ -1,13 +1,10 @@
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=안녕하세요!%20Quasar입니다.&fontSize=40&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20I'm%20Xenith.&animation=fadeIn&fontSize=60"/>
 </h3>
 
-<p align="center">저는 스마트폰을 위주로 다양한 테크 분야에 관심을 가지고 있습니다.</p>
+<p align="center">반갑습니다! 저는 Xenith입니다.</p>
 
-<p align="center">
-  Android 시스템 트윅부터 커스텀 롬 포팅까지,<br>
-  Android 기기를 심층적으로 개조하는 데 열정을 가지고 있습니다.
-</p>
+[![Xenith's GitHub stats](https://github-stats-extended.vercel.app/api?username=quasar-0707)](https://github.com/stats-organization/github-stats-extended)
 
 <h3 align="center">🛠️ Quasar’s Tech Stack</h3>
 
