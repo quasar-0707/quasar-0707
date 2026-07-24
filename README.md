@@ -4,7 +4,11 @@
 
 <p align="center">반갑습니다! 저는 Xenith입니다.</p>
 
-<p align="center">[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=quasar-0707&layout=compact&langs_count=4&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=quasar-0707&layout=compact&langs_count=4&theme=github_dark_dimmed)</p>
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=quasar-0707&layout=compact&langs_count=4&theme=github_dark_dimmed">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=quasar-0707&layout=compact&langs_count=4&theme=github_dark_dimmed" />
+  </a>
+</p>)
 
 <h3 align="center">🛠️ Quasar’s Tech Stack</h3>
 
