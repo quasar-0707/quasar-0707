@@ -4,7 +4,7 @@
 
 <p align="center">반갑습니다! 저는 Xenith입니다.</p>
 
-[![Xenith's GitHub stats](https://github-stats-extended.vercel.app/api?username=quasar-0707)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=quasar-0707&layout=compact&langs_count=4&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=quasar-0707&layout=compact&langs_count=4&theme=github_dark_dimmed)
 
 <h3 align="center">🛠️ Quasar’s Tech Stack</h3>
 
