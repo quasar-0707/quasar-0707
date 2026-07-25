@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=반갑습니다!%20저는%20Xenith입니다.&animation=fadeIn&fontSize=60"/>
+  <img src=https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=반갑습니다!%20저는%20Xenith입니다.&fontSize=50&fontColor=FFFFFF/>
 </h3>
 
 <p align="center">
